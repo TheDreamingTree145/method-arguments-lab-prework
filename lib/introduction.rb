@@ -9,4 +9,4 @@ introduction ("Sophie")
 def greeting_programmer (name, language = "Ruby")
   puts"Hello, #{name}. We heard you are a great #{language} programmer."
 end
-greeting_programmer ("Josh", "Ruby")
+greeting_programmer("Josh", "Ruby")
